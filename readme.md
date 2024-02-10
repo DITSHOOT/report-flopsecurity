@@ -88,7 +88,19 @@ Validation et échappement des données en sortie, utilisation de Content Securi
 - **Exemple:** Mise à jour régulière des composants pour corriger les vulnérabilités.
 - **Exemple:** Intégrer des bibliothèques de requêtes préparées dans le code pour filtrer et valider les entrées utilisateur. Utiliser des frameworks (*Ruby on Rails*) qui intègrent des mécanismes automatiques d'échappement des données pour prévenir les attaques XSS.
 
+## Mon avis sur le TP 🤔
 
+Durant cette séance pratique, on s'est plongé dans l'univers complexe du développement d'applications web. J'ai abordé la gestion de bases de données, mettant en lumière des concepts comme les injections SQL et XSS. Expérimenter ces vulnérabilités m'a permis de comprendre leur impact, de réfléchir à leurs causes, et de proposer des solutions pour renforcer la sécurité de l'application web. 👨‍💻
+
+
+
+## L'importance de la sécurité ! 🤝
+
+Ce qui m'a particulièrement frappé, c'est le poids de la sécurité. On ne parle pas seulement de créer des fonctionnalités qui marchent, mais de garantir que nos réalisations sont résistantes face aux attaques. La protection des données et la configuration système, c'est un enjeu majeur. Les failles de sécurité sont un peu comme des menaces invisibles qu'il faut détecter avant qu'elles ne deviennent problématiques.
+
+## Mon avis pour l'avenir de la sécurité des apps 🚨
+
+Honnêtement, en regardant vers l'avenir, je suis convaincu qu'il est essentiel de rester vigilant. Les menaces évoluent constamment, et il faut être prêt à y faire face. Les mises à jour ne concernent pas seulement l'ajout de nouvelles fonctionnalités, mais aussi la fermeture des failles de sécurité. Et n'oublions pas les tests de sécurité, un peu comme des gardiens invisibles qui scrutent en permanence pour s'assurer que tout est en ordre. C'est comme un bouclier protecteur pour nos applications, et franchement, c'est super, il faut vraiment en apprendre d'avantage. 🛡️📲
 
 <br>
 
