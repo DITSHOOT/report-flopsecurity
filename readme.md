@@ -11,7 +11,7 @@ Projet : Centre de Formation Saint-Etienne (CFAI)
 
 ## Introduction 🚀
 
-> Le TP nous montre comment une application web peut avoir des failles de sécurité, mettant en lumière les injections SQL (SQLI) et les attaques Cross-Site Scripting (XSS).
+Le TP nous montre comment une application web peut avoir des failles de sécurité, mettant en lumière les injections SQL (SQLI) et les attaques Cross-Site Scripting (XSS).
 
 ### Contexte du TP 🌐
 
